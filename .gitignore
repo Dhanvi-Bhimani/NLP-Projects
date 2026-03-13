@@ -1,0 +1,11 @@
+# ignore datasets
+*.csv
+
+# ignore models if large
+*.pkl
+
+# python environment
+.venv/
+
+# uploads
+uploads/
